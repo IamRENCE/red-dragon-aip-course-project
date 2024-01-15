@@ -94,7 +94,7 @@ You need to have Docker installed and running.
 
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Thanks to Martin and Sam for the guidance throughout this course!
 
 - [Red Dragon AI Pte Ltd](https://reddragonai.com/)
   - [Martin Andrews](mailto:martin@reddragon.ai)
